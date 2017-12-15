@@ -1,0 +1,13 @@
+	age	job	marital	education	balance	day	month	duration	campaign	pdays	previous	poutcome	y
+0	78	retired	divorced	primary	229	22	oct	97	1	-1	0	unknown	yes
+1	32	blue-collar	married	secondary	2089	14	nov	132	1	-1	0	unknown	yes
+2	33	management	married	secondary	3935	6	may	765	1	342	2	failure	yes
+3	61	admin.	married	unknown	4629	27	jan	181	1	92	1	success	yes
+4	45	blue-collar	divorced	primary	844	5	jun	1018	3	-1	0	unknown	yes
+5	34	technician	married	tertiary	1539	15	jun	441	1	56	1	other	yes
+6	30	unemployed	married	primary	1787	19	oct	79	1	-1	0	unknown	no
+7	33	services	married	secondary	4789	11	may	220	1	339	4	failure	no
+8	35	management	single	tertiary	1350	16	apr	185	1	330	1	failure	no
+9	30	management	married	tertiary	1476	3	jun	199	4	-1	0	unknown	no
+10	59	blue-collar	married	secondary	0	5	may	226	1	-1	0	unknown	no
+11	35	management	single	tertiary	747	23	feb	141	2	176	3	failure	no
